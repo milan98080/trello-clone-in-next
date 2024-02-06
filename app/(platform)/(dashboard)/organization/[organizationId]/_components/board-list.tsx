@@ -62,7 +62,7 @@ export const BoardList = async () => {
             </span>
             <Hint
               sideOffset={40}
-              description={`Free workspaces are limited to 5 boards. Upgrade to a paid plan to create more boards.`}
+              description={`Free workspaces are limited to 100 boards. Upgrade to a paid plan to create more boards.`}
             >
               <HelpCircle className="absolute bottom-2 right-2 h-[14px] w-[14px]" />
             </Hint>
